@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vikipedia2k/Portfolio/static/css/main.56e81b4b.css",
+    "main.js": "/vikipedia2k/Portfolio/static/js/main.aa28ef24.js",
+    "static/js/415.4d6acbeb.chunk.js": "/vikipedia2k/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/vikipedia2k/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/doctor.png": "/vikipedia2k/Portfolio/static/media/doctor.11c7154d10469dc774ff.png",
+    "static/media/logo.png": "/vikipedia2k/Portfolio/static/media/logo.2f23ec0787df94405a5c.png",
+    "static/media/home-main.svg": "/vikipedia2k/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/vikipedia2k/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Vivek-Resume.pdf": "/vikipedia2k/Portfolio/static/media/Vivek-Resume.657e0f825909b1703e5e.pdf",
+    "static/media/home-bg.jpg": "/vikipedia2k/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Resto.jpg": "/vikipedia2k/Portfolio/static/media/Resto.0410f2ddfeb662352feb.jpg",
+    "static/media/avatar.svg": "/vikipedia2k/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/vikipedia2k/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/vikipedia2k/Portfolio/index.html",
+    "main.56e81b4b.css.map": "/vikipedia2k/Portfolio/static/css/main.56e81b4b.css.map",
+    "main.aa28ef24.js.map": "/vikipedia2k/Portfolio/static/js/main.aa28ef24.js.map",
+    "415.4d6acbeb.chunk.js.map": "/vikipedia2k/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/vikipedia2k/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e81b4b.css",
+    "static/js/main.aa28ef24.js"
+  ]
+}
