@@ -24,7 +24,7 @@ function Projects() {
               title="DokTalk"
               description="Online Health Consultation System using MySQL, Php and Bootstrap and JavScript"
               ghLink="https://github.com/vikipedia2k/doktalk.github.io"
-              demoLink="#"
+              demoLink="https://doktalk.herokuapp.com/"
             />
           </Col>
 
